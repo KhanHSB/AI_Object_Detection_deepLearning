@@ -1,4 +1,4 @@
-# AI_Object_Detection_Deep_Learning
+# AI_Object_Detection_Deep_Learning Object Detection for Collision Avoidance Demonstration Version
 Object Detection for Collision Avoidance Demonstration Version
 
 *Please feel free to utilize the code for your projects with proper citations.
