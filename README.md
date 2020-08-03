@@ -11,4 +11,7 @@ Some Basic Instructions:
 2. Please make sure you have all the dependencies installed for the module.
 
 
+This is a Driving Obstacle Detection Model, designed to operate with a 'Within Visual Spectrum' camera feed ( 450 -700 nm range ). Can be adapted to multiple frame rates, however +30-FPS is recommended. Useful for detecting other moving and static vehicles, pedestrians, signboards, pets and animals, and other misc road obstacles. Utilized deep adapted C-NN, written using C++ and Python.
+
+
 
